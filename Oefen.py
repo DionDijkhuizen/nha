@@ -1,0 +1,1 @@
+print("Mijn Voorbeeld".swapcase())
